@@ -2,55 +2,55 @@
 📂 Proje İçeriği
 Bu repo aşağıdaki konuları kapsamaktadır:
 
-Dikdörtgenin alanı / çevresi
+Dikdörtgenin alanı / çevresi = main1
 
-İkinci dereceden denklemin kökleri
+İkinci dereceden denklemin kökleri = yakında
 
-"Hello World" 10 kez yazdırma
+"Hello World" 10 kez yazdırma = main2
 
-İlk 50 doğal sayının toplamı
+İlk 50 doğal sayının toplamı = main3
 
-2⁴ hesabı
+2⁴ hesabı = main4
 
-İki sayının EKOK’u
+İki sayının EKOK’u = main5
 
-1’den n’e asal sayılar
+1’den n’e asal sayılar = main6
 
-1’den n’e asal sayıların toplamı
+1’den n’e asal sayıların toplamı = main7
 
-Armstrong sayısı kontrolü
+Armstrong sayısı kontrolü = yakında
 
-Armstrong sayıları listeleme
+Armstrong sayıları listeleme = yakında
 
-Mükemmel sayı kontrolü
+Mükemmel sayı kontrolü = yakında
 
-Mükemmel sayıları listeleme
+Mükemmel sayıları listeleme = yakında
 
-Strong number kontrolü
+Strong number kontrolü = yakında
 
-Strong number listeleme
+Strong number listeleme = yakında
 
-Palindrom sayı kontrolü
+Palindrom sayı kontrolü = yakında
 
-Seri toplamı: 1 − X²/2! + X⁴/4! …
+Seri toplamı: 1 − X²/2! + X⁴/4! … = yakında
 
-Harmonik seri (1 + 1/2 + ... 1/n)
+Harmonik seri (1 + 1/2 + ... 1/n) = yakında
 
-Floyd üçgeni
+Floyd üçgeni = yakında
 
-Seri: 1 + x + x²/2! + ...
+Seri: 1 + x + x²/2! + ... = yakında
 
-Seri: x − x³ + x⁵ − ...
+Seri: x − x³ + x⁵ − ... = yakında
 
-Seri: 1 + 11 + 111 + ...
+Seri: 1 + 11 + 111 + ... = yakında
 
-100–200 arası 9’a bölünebilen sayıların toplamı
+100–200 arası 9’a bölünebilen sayıların toplamı = yakında
 
-Onluk → ikilik çevirme (arraysiz)
+Onluk → ikilik çevirme (arraysiz) = yakında
 
-İkilik → onluk çevirme (array, fonksiyon, while yok)
+İkilik → onluk çevirme (array, fonksiyon, while yok) = yakında
 
-Pascal üçgeni
+Pascal üçgeni = yakında
 
 
 🚀 Nasıl Çalıştırılır?
