@@ -66,3 +66,4 @@ C dilinde çözüm üretebilmek ve aynı zamanda akış şeması oluşturma prat
 📬 İletişim
 
 Her türlü soru, öneri veya hata bildirimi için issue açabilirsiniz.
+Sizde soruları görmek isterseniz #homework2 den bakabilirsiniz
