@@ -18,11 +18,11 @@ Dikdörtgenin alanı / çevresi = main1
 
 1’den n’e asal sayıların toplamı = main7
 
-Armstrong sayısı kontrolü = yakında
+Armstrong sayısı kontrolü = main8
 
-Armstrong sayıları listeleme = yakında
+Armstrong sayıları listeleme = main10
 
-Mükemmel sayı kontrolü = yakında
+Mükemmel sayı kontrolü = mian9
 
 Mükemmel sayıları listeleme = yakında
 
