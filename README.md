@@ -24,9 +24,9 @@ Armstrong sayıları listeleme = main10
 
 Mükemmel sayı kontrolü = mian9
 
-Mükemmel sayıları listeleme = yakında
+Mükemmel sayıları listeleme = main11
 
-Strong number kontrolü = yakında
+Strong number kontrolü = main12
 
 Strong number listeleme = yakında
 
