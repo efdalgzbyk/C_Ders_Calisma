@@ -28,9 +28,9 @@ Mükemmel sayıları listeleme = main11
 
 Strong number kontrolü = main12
 
-Strong number listeleme = yakında
+Strong number listeleme = main13
 
-Palindrom sayı kontrolü = yakında
+Palindrom sayı kontrolü = main14
 
 Seri toplamı: 1 − X²/2! + X⁴/4! … = yakında
 
