@@ -44,7 +44,7 @@ Seri: x − x³ + x⁵ − ... = yakında
 
 Seri: 1 + 11 + 111 + ... = yakında
 
-100–200 arası 9’a bölünebilen sayıların toplamı = yakında
+100–200 arası 9’a bölünebilen sayıların toplamı = main15
 
 Onluk → ikilik çevirme (arraysiz) = yakında
 
