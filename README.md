@@ -50,7 +50,7 @@ Onluk → ikilik çevirme (arraysiz) = yakında
 
 İkilik → onluk çevirme (array, fonksiyon, while yok) = yakında
 
-Pascal üçgeni = yakında
+Pascal üçgeni = main17
 
 
 🚀 Nasıl Çalıştırılır?
