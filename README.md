@@ -36,7 +36,7 @@ Seri toplamı: 1 − X²/2! + X⁴/4! … = yakında
 
 Harmonik seri (1 + 1/2 + ... 1/n) = yakında
 
-Floyd üçgeni = yakında
+Floyd üçgeni = main16
 
 Seri: 1 + x + x²/2! + ... = yakında
 
