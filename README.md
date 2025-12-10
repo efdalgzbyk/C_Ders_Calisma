@@ -34,7 +34,7 @@ Palindrom sayı kontrolü = main14
 
 Seri toplamı: 1 − X²/2! + X⁴/4! … = yakında
 
-Harmonik seri (1 + 1/2 + ... 1/n) = yakında
+Harmonik seri (1 + 1/2 + ... 1/n) = main19
 
 Floyd üçgeni = main16
 
