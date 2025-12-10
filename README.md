@@ -40,7 +40,7 @@ Floyd üçgeni = main16
 
 Seri: 1 + x + x²/2! + ... = yakında
 
-Seri: x − x³ + x⁵ − ... = yakında
+Seri: x − x³ + x⁵ − ... = main18
 
 Seri: 1 + 11 + 111 + ... = main17
 
