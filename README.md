@@ -42,7 +42,7 @@ Seri: 1 + x + x²/2! + ... = yakında
 
 Seri: x − x³ + x⁵ − ... = yakında
 
-Seri: 1 + 11 + 111 + ... = yakında
+Seri: 1 + 11 + 111 + ... = main17
 
 100–200 arası 9’a bölünebilen sayıların toplamı = main15
 
@@ -50,7 +50,7 @@ Onluk → ikilik çevirme (arraysiz) = yakında
 
 İkilik → onluk çevirme (array, fonksiyon, while yok) = yakında
 
-Pascal üçgeni = main17
+Pascal üçgeni = yakında
 
 
 🚀 Nasıl Çalıştırılır?
