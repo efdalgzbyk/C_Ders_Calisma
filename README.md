@@ -48,7 +48,7 @@ Seri: 1 + 11 + 111 + ... = main17
 
 Onluk → ikilik çevirme (arraysiz) = main20
 
-İkilik → onluk çevirme (array, fonksiyon, while yok) = yakında
+İkilik → onluk çevirme (array, fonksiyon, while yok) = main21
 
 Pascal üçgeni = yakında
 
