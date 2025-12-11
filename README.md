@@ -46,7 +46,7 @@ Seri: 1 + 11 + 111 + ... = main17
 
 100–200 arası 9’a bölünebilen sayıların toplamı = main15
 
-Onluk → ikilik çevirme (arraysiz) = yakında
+Onluk → ikilik çevirme (arraysiz) = main20
 
 İkilik → onluk çevirme (array, fonksiyon, while yok) = yakında
 
