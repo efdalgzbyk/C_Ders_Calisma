@@ -38,7 +38,7 @@ Harmonik seri (1 + 1/2 + ... 1/n) = main19
 
 Floyd üçgeni = main16
 
-Seri: 1 + x + x²/2! + ... = yakında
+Seri: 1 + x + x²/2! + ... = main22
 
 Seri: x − x³ + x⁵ − ... = main18
 
